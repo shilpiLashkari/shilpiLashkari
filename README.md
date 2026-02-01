@@ -52,7 +52,7 @@
 
 <div align="center">
   <h3>📊 GitHub Stats & Streaks</h3>
-  <img src="https://github.com/shilpiLashkari/shilpiLashkari/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/shilpiLashkari/shilpiLashkari/blob/main/github-metrics.svg" alt="Metrics" width="80%">
   
   <br/>
   

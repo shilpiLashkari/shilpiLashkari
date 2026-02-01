@@ -51,6 +51,11 @@
 ## 🌱 GitHub Activity
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shilpiLashkari&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="shilpiLashkari" />
+  </a>
+  <br/>
+
   <h3>📊 GitHub Stats & Streaks</h3>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shilpiLashkari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="shilpiLashkari's GitHub stats" />
@@ -59,7 +64,7 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpiLashkari&theme=radical&hide_border=true" alt="shilpiLashkari's streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=shilpiLashkari&theme=radical&hide_border=true" alt="shilpiLashkari's streak" />
 
   <br/>
   <br/>

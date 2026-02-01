@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shilpi+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Scalable+Apps%3B+Performance+First" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shilpi+%F0%9F%91%8B;Building+Scalable+Apps%3B+Performance+First" alt="Typing SVG" />
   
   <p>
     Full-Stack Web Developer with 4+ YOE building scalable, high-performance web apps.
@@ -51,9 +51,12 @@
 ## 🌱 GitHub Activity
 
 <div align="center">
+  <!-- 
+  Trophies service is currently down (503 Error). Uncomment when back up.
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shilpiLashkari&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="shilpiLashkari" />
   </a>
+  -->
   <br/>
 
   <h3>📊 GitHub Stats & Streaks</h3>
@@ -64,7 +67,7 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=shilpiLashkari&theme=radical&hide_border=true" alt="shilpiLashkari's streak" />
+  <img src="https://streak-stats.demolab.com/?user=shilpiLashkari&theme=radical&hide_border=true" alt="shilpiLashkari's streak" />
 
   <br/>
   <br/>

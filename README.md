@@ -1,44 +1,20 @@
-<h2 style="text-align: center;">Hi, I'm Shilpi 👋 | Full-Stack Web Developer</h2>
-
-<p style="text-align: center;">
-Full-Stack Web Developer with 4+ YOE building scalable, high-performance web apps.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shilpi+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Scalable+Apps%3B+Performance+First" alt="Typing SVG" />
+  
+  <p>
+    Full-Stack Web Developer with 4+ YOE building scalable, high-performance web apps.
+  </p>
+</div>
 
 ---
 
 ## 💻 Technical Skills (Languages & Tools)
 
-<p style="text-align: left;">
-  <!-- Frontend -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Angular-DD0031.svg?logo=angular&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Angular%20Material-1976D2.svg?logo=angular&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PrimeNG-0C7BE5.svg?logo=prime&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=000000" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=000000" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white" />
-  <!-- Backend -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" />
-  <!-- Databases -->
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
-  <!-- Tools & IDEs -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Cursor%20AI-2B2B2B.svg?logo=cursor&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Jupyter%20Notebook-F37626.svg?logo=jupyter&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,materialui,react,ts,js,html,css,tailwind,nodejs,express,python,django,fastapi,graphql,mongodb,mysql,git,github,postman,vscode,pycharm,idea" />
+  </a>
+</div>
 
 
 ---
@@ -74,10 +50,28 @@ Full-Stack Web Developer with 4+ YOE building scalable, high-performance web app
 
 ## 🌱 GitHub Activity
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shilpiLashkari&show_icons=true&theme=dark&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpiLashkari&layout=compact&theme=dark&hide_border=true" height="170px"/>
-</p>
+<div align="center">
+  <h3>📊 GitHub Stats & Streaks</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shilpiLashkari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="shilpiLashkari's GitHub stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shilpiLashkari&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  </div>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpiLashkari&theme=radical&hide_border=true" alt="shilpiLashkari's streak" />
+
+  <br/>
+  <br/>
+
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shilpiLashkari&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  
+  <br/>
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/shilpiLashkari/shilpiLashkari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+</div>
 
 ---
 

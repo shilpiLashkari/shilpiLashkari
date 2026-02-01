@@ -57,6 +57,12 @@
   <br/>
   
   <img src="https://raw.githubusercontent.com/shilpiLashkari/shilpiLashkari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+
+  <br/>
+  
+  ### ✍️ Random Dev Quote
+  <!-- You can change the 'quote' and 'author' values in the URL below to whatever you want! (Remember to replace spaces with %20) -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" alt="Random Dev Quote" />
 </div> 
 
 

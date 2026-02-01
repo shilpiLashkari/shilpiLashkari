@@ -51,37 +51,14 @@
 ## 🌱 GitHub Activity
 
 <div align="center">
-  <!-- 
-  Trophies service is currently down (503 Error). Uncomment when back up.
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shilpiLashkari&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="shilpiLashkari" />
-  </a>
-  -->
-  <br/>
-
   <h3>📊 GitHub Stats & Streaks</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shilpiLashkari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="shilpiLashkari's GitHub stats" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shilpiLashkari&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-  </div>
+  <img src="https://github.com/shilpiLashkari/shilpiLashkari/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=shilpiLashkari&theme=radical&hide_border=true" alt="shilpiLashkari's streak" />
-
-  <br/>
-  <br/>
-
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/shilpiLashkari/shilpiLashkari/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shilpiLashkari&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-  
-  <br/> 
-  <br/>
-
   <img src="https://raw.githubusercontent.com/shilpiLashkari/shilpiLashkari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</div>
+</div> 
+
 
 ---
 

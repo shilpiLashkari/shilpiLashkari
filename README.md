@@ -73,7 +73,7 @@
   <br/>
 
   <h3>📈 Contribution Graph</h3>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/shilpiLashkari/shilpiLashkari/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shilpiLashkari&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
   

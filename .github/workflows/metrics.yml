@@ -30,8 +30,7 @@ jobs:
           config_timezone: Asia/Calcutta
           
           # Plugin: Isometric Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar: no
           
           # Plugin: Languages
           plugin_languages: yes

@@ -52,11 +52,15 @@
 
 <div align="center">
   <h3>📊 GitHub Stats & Streaks</h3>
-  <img src="https://github.com/shilpiLashkari/shilpiLashkari/blob/main/github-metrics.svg" alt="Metrics" width="80%">
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shilpiLashkari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpiLashkari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  </div>
   
   <br/>
   
-  <img src="https://raw.githubusercontent.com/shilpiLashkari/shilpiLashkari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpiLashkari&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
   <br/>
   
